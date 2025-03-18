@@ -18,8 +18,6 @@ To install in Ubuntu 18.04:
 
 For example:
 
-    bash make_gif.sh https://www.youtube.com/watch?v=EKKVN-fmAx0 16 7 7 out.gif
+    bash make_gif.sh https://www.youtube.com/watch?v=[VideoID] 16 7 7 [Name].gif
     
-Then, *out.gif* will be generated.
-
-![out.gif](out.gif)
+Then, Gif File will be generated.
