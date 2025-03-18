@@ -4,7 +4,7 @@ This is a shellscript for generaring a GIF image from YouTube videos with youtub
 
 ## Requirements
 
-- [youtube-dl](https://github.com/rg3/youtube-dl)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [ffmpeg](https://www.ffmpeg.org/)
 
 To install in Ubuntu 18.04:
